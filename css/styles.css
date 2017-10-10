@@ -1,6 +1,7 @@
 p {
   font-family: sans-serif;
   font-weight: bold;
+  color: gray;
 }
 
 ol {
@@ -12,4 +13,8 @@ img {
     height: 350px;
     width: 648px;
     background-color: powderblue;
+}
+
+body {
+  background-color: skyblue;
 }
