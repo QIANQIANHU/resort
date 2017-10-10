@@ -1,0 +1,15 @@
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+ol {
+  font-size: 30px;
+  line-height: 30px;
+  text-indent: 50px;
+}
+img {
+    height: 350px;
+    width: 648px;
+    background-color: powderblue;
+}
