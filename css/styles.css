@@ -1,7 +1,7 @@
 p {
   font-family: sans-serif;
   font-weight: bold;
-  color: gray;
+  color: crimson;
 }
 
 ol {
@@ -16,5 +16,5 @@ img {
 }
 
 body {
-  background-color: skyblue;
+  background-color: salmon;
 }
