@@ -1,6 +1,9 @@
-p {
+p.intro {
   font-family: sans-serif;
   font-weight: bold;
+  width: 50%;
+  font-style: italic;
+  color: grey;
 }
 
 ol {
